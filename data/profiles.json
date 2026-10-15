@@ -1,0 +1,28 @@
+{
+  "henry-marth": {
+    "name": "Henry Duarte Marth",
+    "bio": "Desenvolvedor Fullstack / Automações",
+    "avatar_url": "/assets/profiles/henry-marth.jpg",
+    "is_active": true,
+    "links": [
+      {
+        "kind": "resume",
+        "title": "Baixar currículo",
+        "description": "Minha trajetória em PDF",
+        "url": "/files/curriculos/henry-duarte-marth.pdf"
+      },
+      {
+        "kind": "github",
+        "title": "GitHub",
+        "description": "Código, projetos e contribuições",
+        "url": "https://github.com/henrymarth"
+      },
+      {
+        "kind": "linkedin",
+        "title": "LinkedIn",
+        "description": "Minha trajetória profissional",
+        "url": "https://www.linkedin.com/in/henry-marth-dev"
+      }
+    ]
+  }
+}

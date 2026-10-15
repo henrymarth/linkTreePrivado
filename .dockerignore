@@ -1,0 +1,8 @@
+.git
+.gitignore
+.env
+.env.*
+vendor
+.local
+.playwright-mcp
+README.md
